@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const chalk = require('chalk' ); //commonjs
 const axios = require('axios');
 
