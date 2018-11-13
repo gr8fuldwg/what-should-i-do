@@ -1,0 +1,23 @@
+{
+  "name": "what-should-i-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr8fuldwg/what-should-i-do.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr8fuldwg/what-should-i-do/issues"
+  },
+  "homepage": "https://github.com/gr8fuldwg/what-should-i-do#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
